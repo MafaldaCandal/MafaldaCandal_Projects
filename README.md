@@ -49,3 +49,11 @@ Welcome! This repository contains a collection of academic and personal projects
 - **Tools**: Pandas, QGIS, base R, Git  
 - **Topics**: Algorithms, data structures, statistics, data analysis, ethics of AI, GIS
 
+---
+
+## Contact Information
+
+- **email**: mafa.m.p.candal@outlook.pt  
+- **phone number**: +351966546354
+
+Thank you!
